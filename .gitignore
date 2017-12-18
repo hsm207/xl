@@ -97,3 +97,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+images/ff_nn.dia~
+~$slides.pptx
